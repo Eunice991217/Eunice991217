@@ -50,5 +50,3 @@ Here are some ideas to get you started:
 
 [![MinKyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunice991217&show_icons=true&theme=radical)](https://github.com/Eunice991217)
 
-<h3>Most Used Laguages</h3>
-
