@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <h3>Status</h3>
 
-[![MinKyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunice991217&show_icons=true&theme=radical)](https://github.com/Eunice991217/github-readme-stats)
+[![MinKyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunice991217&show_icons=true&theme=radical)](https://github.com/Eunice991217)
 
 <h3>Most Used Laguages</h3>
 
