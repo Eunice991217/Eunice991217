@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=org9899)](https://solved.ac/org9899/)
 
 <h3>Status</h3>
-![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunice991217&show_icons=true&theme=radical)
+![Eunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunice991217&theme=dark&show_icons=true)
 
 <h3>Most Used Laguages</h3>
 
