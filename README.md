@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=💻Eunice%20GitHub📲&fontSize=90&animation=twinkling" />
 
 <h1>👩🏻‍💻Tech Stacks</h1>
+<!-- -->
 <h3>Platforms & Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white">
