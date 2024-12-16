@@ -26,11 +26,11 @@
 
 |Awarded Date|Contents|Name|Organization|
 |:-:|---|:-:|---|
-|2024.11.19|[FamilRing 가족 소통 애플리케이션](https://github.com/SSAFY-D108-Familring/Familring)|자율 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
-|2024.10.11|[GoodShot 골프 스윙 자세 교정 서비스](https://github.com/LeeJonSaBae/GoodShot)|특화 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
-|2024.08.16|[CrewIn 러닝 크루 통합 관리 플랫폼](https://github.com/LuckyCoockie/CrewIn)|공통 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
+|2024.11.19|[가족 소통 애플리케이션](https://github.com/SSAFY-D108-Familring/Familring)|자율 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
+|2024.10.11|[골프 스윙 자세 교정 서비스](https://github.com/LeeJonSaBae/GoodShot)|특화 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
+|2024.08.16|[러닝 크루 통합 관리 플랫폼](https://github.com/LuckyCoockie/CrewIn)|공통 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
 |2023.12.23|누적 봉사시간 총 595시간|제12회 세종 나눔 봉사상|세종대학교|
-|2023.11.08|[Hous-ing 20/30대 청년들을 위한 내 집 마련 청약 추천, 부동산 정보 제공 서비스](https://github.com/Eunice991217/Hous-ing-iOS)|입상 (총 800팀 중 Top5)|[KB국민은행 · NH농협은행 · 교보라이프플래닛 배 AI활용 온라인 개발대회](https://www.synctree101.com/syncathon/main)|
+|2023.11.08|[20/30대 청년들을 위한 내 집 마련 청약 추천, 부동산 정보 제공 서비스](https://github.com/Eunice991217/Hous-ing-iOS)|입상 (총 800팀 중 Top5)|[KB국민은행 · NH농협은행 · 교보라이프플래닛 배 AI활용 온라인 개발대회](https://www.synctree101.com/syncathon/main)|
 |2019.01.26|[제12회 리더십 아카데미 UCC 창작대전](https://youtu.be/iVHXTtJQYf4?si=Wra1-e_5FJFcLuZX)|우수상 (외교부문)|사단법인 청년과미래|
 
 <h3>📂 Certifiacte </h3>
