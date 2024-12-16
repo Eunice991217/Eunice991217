@@ -47,7 +47,7 @@
 |:-:|---|:-:|
 |2022.02.15 ~ 2023.02.14|[식권사업팀 사무국원 (기업협업, 대학관리, 사업확장)](https://glamorous-crocodile-f4c.notion.site/b0203a8952d648f2870611ca64129a6a?pvs=4)|[십시일밥](http://tenspoon.org/)|
 |2022.09.02 ~ 2023.02.16|[University MakeUs Challenge 3기 (iOS Cheer Leader)](https://github.com/Eunice991217/UMC_3rd-iOS)|[MakeUs](https://www.makeus.in/umc)|
-|2019.07.13 ~ 2019.07.26|[CJ UNIT 3기](https://glamorous-crocodile-f4c.notion.site/CJ-UNIT-3-7c0e5df425bd413faa18268ecf69a293?pvs=4)|[CJ SW 창의캠프](https://www.cjolivenetworks.co.kr/sustainability/contribution/education_volunteers)|
+|2019.07.13 ~ 2019.07.26|[CJ UNIT 3기 (코딩 교육 강사, 스파이크 프라임 활용)](https://glamorous-crocodile-f4c.notion.site/CJ-UNIT-3-7c0e5df425bd413faa18268ecf69a293?pvs=4)|[CJ SW 창의캠프](https://www.cjolivenetworks.co.kr/sustainability/contribution/education_volunteers)|
 |2019.07.13 ~ 2019.07.26|[월드 프렌즈 38기 해외 교육 봉사 (한국문화 소개, 파견 지역 : 몽골)](https://youtu.be/fX8BF7IT8Bw?si=UgE1rvYMnbb3grhx)|[한국대학사회봉사협의회](https://www.kucss.or.kr/)|
 
 <h3>📚 Study</h3>
