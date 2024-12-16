@@ -1,52 +1,59 @@
+## 👋 안녕하세요 BackEnd 개발자 김민경입니다!
 
-<!--
-### Hi there 👋
-**Eunice991217/Eunice991217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👩🏻‍💻 About me</h3>
 
-Here are some ideas to get you started:
+<li><b> I enjoy working together rather than alone. <sub>혼자가 아닌 함께하는 것을 좋아합니다.</sub></b></li>
+<li><b> I love creating "user-centered services" through my experience in both frontend and backend development. <sub>프론트엔드와 백엔드 모두 경험하며 "사용자 중심의 서비스"를 만드는 것을 좋아합니다.</sub></b></li>
+<li><b> I thrive on learning new technologies, embracing challenges, and growing through them. <sub>새로운 기술을 배우고 도전하며 성장하는 것을 즐깁니다<./sub></b></li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🏫 Education / Experience</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Eunice%20Git&fontSize=90&animation=twinkling" />
+<li><b> Samsung SW Academy For Youth 11th - Practical Coach (실습코치) <sub>(24.01.03 ~ )</sub></b></li>
+<li><b> Samsung SW Academy For Youth 11th - Trainee (교육생) <sub>(24.01.02 ~ 24.12.19)</sub></b></li>
+<li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(24.02.16)</sub></b></li>
 
-<h1>👩🏻‍💻Tech Stacks</h1>
-<!-- -->
-<h3>Platforms & Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
-</p>
+<h3>🛠️ Skills</h3>
 
-<h3>Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
-</p>
+![Languages](https://skillicons.dev/icons?i=c,java,kotlin,swift,spring,aws,docker,nginx,mysql,redis,postman,github,gitlab,jenkins)
 
-<h1>🔥Skills</h1>
-<h3>BOJ Rank</h3>
+<h3>🖥️ Backend Projects</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=org9899)](https://solved.ac/org9899/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeJonSaBae&repo=GoodShot)](https://github.com/LeeJonSaBae/GoodShot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckyCoockie&repo=CrewIn)](https://github.com/LuckyCoockie/CrewIn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SSAFY-D108-Familring&repo=Familring)](https://github.com/SSAFY-D108-Familring/Familring)
+
+<h3>🏆 Awards </h3>
+
+|Awarded Date|Contents|Name|Organization|
+|:-:|---|:-:|---|
+|2024.11.19|[FamilRing 가족 소통 애플리케이션](https://github.com/SSAFY-D108-Familring/Familring)|자율 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
+|2024.10.11|[GoodShot 골프 스윙 자세 교정 서비스](https://github.com/LeeJonSaBae/GoodShot)|특화 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
+|2024.08.16|[CrewIn 러닝 크루 통합 관리 플랫폼](https://github.com/LuckyCoockie/CrewIn)|공통 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
+|2023.12.23|누적 봉사시간 총 595시간|제12회 세종 나눔 봉사상|세종대학교|
+|2023.11.08|[Hous-ing 20/30대 청년들을 위한 내 집 마련 청약 추천, 부동산 정보 제공 서비스](https://github.com/Eunice991217/Hous-ing-iOS)|입상 (총 800팀 중 Top5)|[KB국민은행 · NH농협은행 · 교보라이프플래닛 배 AI활용 온라인 개발대회](https://www.synctree101.com/syncathon/main)|
+|2019.01.26|[제12회 리더십 아카데미 UCC 창작대전](https://youtu.be/iVHXTtJQYf4?si=Wra1-e_5FJFcLuZX)|우수상 (외교부문)|사단법인 청년과미래|
+
+<h3>📂 Certifiacte </h3>
+
+|Date of Issue|Name|Organization|
+|:-:|---|:-:|
+|2024.06.18|정보처리기사|산업인력관리공단|
+|2024.04.05|SQLD|한국데이터산업진흥원|
+|2019.10.08|네트워크관리사 2급|한국정보통신자격협회|
+
+<h3>📑 Extracurricular Activities</h3> 
+
+|Period|Contents|Organization|
+|:-:|---|:-:|
+|2022.02.15 ~ 2023.02.14|[식권사업팀 사무국원 (기업협업, 대학관리, 사업확장)](https://glamorous-crocodile-f4c.notion.site/b0203a8952d648f2870611ca64129a6a?pvs=4)|[십시일밥](http://tenspoon.org/)|
+|2022.09.02 ~ 2023.02.16|[University MakeUs Challenge 3기 (iOS Cheer Leader)](https://github.com/Eunice991217/UMC_3rd-iOS)|[MakeUs](https://www.makeus.in/umc)|
+|2019.07.13 ~ 2019.07.26|[CJ UNIT 3기](https://glamorous-crocodile-f4c.notion.site/CJ-UNIT-3-7c0e5df425bd413faa18268ecf69a293?pvs=4)|[CJ SW 창의캠프](https://www.cjolivenetworks.co.kr/sustainability/contribution/education_volunteers)|
+|2019.07.13 ~ 2019.07.26|[월드 프렌즈 38기 해외 교육 봉사 (한국문화 소개, 파견 지역 : 몽골)](https://youtu.be/fX8BF7IT8Bw?si=UgE1rvYMnbb3grhx)|[한국대학사회봉사협의회](https://www.kucss.or.kr/)|
+
+<h3>📚 Study</h3>
+
+<center>
+  <a href="https://solved.ac/profile/org9899"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=org9899"></a>
+</center>
+
 
