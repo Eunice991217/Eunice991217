@@ -8,7 +8,7 @@
 
 <h3>🏫 Education / Experience</h3>
 
-<li><b> Samsung SW Academy For Youth 11th - Practical Coach (실습코치) <sub>(24.01.03 ~ )</sub></b></li>
+<li><b> Samsung SW Academy For Youth 11th - Practical Coach (실습코치) <sub>(25.01.03 ~ )</sub></b></li>
 <li><b> Samsung SW Academy For Youth 11th - Trainee (교육생) <sub>(24.01.02 ~ 24.12.19)</sub></b></li>
 <li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(24.02.16)</sub></b></li>
 
