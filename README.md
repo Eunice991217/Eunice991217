@@ -4,7 +4,7 @@
 
 <li><b> I enjoy working together rather than alone. <sub>혼자가 아닌 함께하는 것을 좋아합니다.</sub></b></li>
 <li><b> I love creating "user-centered services" through my experience in both frontend and backend development. <sub>프론트엔드와 백엔드 모두 경험하며 "사용자 중심의 서비스"를 만드는 것을 좋아합니다.</sub></b></li>
-<li><b> I thrive on learning new technologies, embracing challenges, and growing through them. <sub>새로운 기술을 배우고 도전하며 성장하는 것을 즐깁니다</sub></b></li>
+<li><b> I thrive on learning new technologies, embracing challenges, and growing through them. <sub>새로운 기술을 배우고 도전하며 성장하는 것을 즐깁니다.</sub></b></li>
 
 <h3>🏫 Education / Experience</h3>
 
