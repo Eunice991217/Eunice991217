@@ -27,6 +27,7 @@
 
 |Awarded Date|Contents|Name|Organization|
 |:-:|---|:-:|---|
+|2024.12.19|최우수 상위 5% 수료|고용노동부 청장상|삼성 청년 SW 아카데미|
 |2024.11.19|[가족 소통 애플리케이션](https://github.com/SSAFY-D108-Familring/Familring)|자율 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
 |2024.10.11|[골프 스윙 자세 교정 서비스](https://github.com/LeeJonSaBae/GoodShot)|특화 프로젝트 1등 우수상|삼성 청년 SW 아카데미|
 |2024.08.16|[러닝 크루 통합 관리 플랫폼](https://github.com/LuckyCoockie/CrewIn)|공통 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
