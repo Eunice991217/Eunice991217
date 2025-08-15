@@ -1,4 +1,4 @@
-## 👋 Hello, My name is MinKyung Kim <sub>(Eunice)</sub>
+## 👋 Hello, My name is MinKyung Kim
 
 <h3>👩🏻‍💻 About me</h3>
 
