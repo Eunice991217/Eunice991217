@@ -1,4 +1,4 @@
-## 👋 안녕하세요 BackEnd 개발자 김민경입니다!
+## 👋 Hello, My name is MinKyung Kim <sub>(Eunice)</sub>
 
 <h3>👩🏻‍💻 About me</h3>
 
