@@ -18,12 +18,6 @@
 
 ![Languages](https://skillicons.dev/icons?i=c,java,kotlin,swift,spring,aws,docker,nginx,mysql,redis,postman,github,gitlab,jenkins)
 
-<h3>🖥️ Backend Projects</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeJonSaBae&repo=GoodShot)](https://github.com/LeeJonSaBae/GoodShot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckyCoockie&repo=CrewIn)](https://github.com/LuckyCoockie/CrewIn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SSAFY-D108-Familring&repo=Familring)](https://github.com/SSAFY-D108-Familring/Familring)
-
 <h3>🏆 Awards </h3>
 
 |Awarded Date|Contents|Name|Organization|
