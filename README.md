@@ -47,10 +47,5 @@
 |2019.07.13 ~ 2019.07.26|[CJ UNIT 3기 (코딩 교육 강사, 스파이크 프라임 활용)](https://glamorous-crocodile-f4c.notion.site/CJ-UNIT-3-7c0e5df425bd413faa18268ecf69a293?pvs=4)|[CJ SW 창의캠프](https://www.cjolivenetworks.co.kr/sustainability/contribution/education_volunteers)|
 |2019.07.13 ~ 2019.07.26|[월드 프렌즈 38기 해외 교육 봉사 (한국문화 소개, 파견 지역 : 몽골)](https://youtu.be/fX8BF7IT8Bw?si=UgE1rvYMnbb3grhx)|[한국대학사회봉사협의회](https://www.kucss.or.kr/)|
 
-<h3>📚 Study</h3>
-
-<center>
-  <a href="https://solved.ac/profile/org9899"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=org9899"></a>
-</center>
 
 
